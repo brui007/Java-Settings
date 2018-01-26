@@ -1,2 +1,2 @@
-# Java-Settings
-环境变量
+Java环境变量
+看完对Java环境变量有更深刻的印象
